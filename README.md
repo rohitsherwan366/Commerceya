@@ -82,8 +82,6 @@ The website displays products. Users can add and remove products to/from their c
 
 ## Features
 
-## Features
-
 <b>Products Features</b>
 
 | Feature  |  Coded?       | Description  |
