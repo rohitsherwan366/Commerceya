@@ -114,7 +114,7 @@ The website displays products. Users can add and remove products to/from their c
 | Manage Product | &#10004; | Ability to add, edit or remove product |
 | Manage Category | &#10004; | Ability to add, remove category |
 | Manage Customer | &#10004; | Ability to add, edit, remove or view details of customer |
-| Manage Order | &#10004; | Ability to handle order status (packed, onTheWay, delivered, cancel |
+| Manage Order | &#10004; | Ability to handle order status (packed, onTheWay, delivered, cancel) |
 
 
 
