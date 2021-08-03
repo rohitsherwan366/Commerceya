@@ -20,10 +20,7 @@
 * [License](#license)
 
 ## About the Project
-
-
-
-
+The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. Users can also select the category to add products and filter according to thier prices. They can then enter their address and choose Stripe to handle the payment processing.
 
 
 ### Built With
@@ -96,7 +93,6 @@
 | List Products | &#10004; | Ability of List Products |
 | Edit a Product | &#10004; | Ability of Edit a Product |
 | Delete a Product | &#10004; | Ability of Delete a Product |
-| Stock | &#10004; | Ability of Update the Stock |
 | Stock History | &#10004; | Ability to see the Stock History |
 
 <b>Purchase Features</b>
@@ -108,9 +104,18 @@
 | Remove a Cart | &#10004; | Ability of Remove a Cart |
 | Add Item | &#10004; | Ability of add a new Item on the Cart |
 | Remove a Item | &#10004; | Ability of Remove a Item from the Cart |
+| Payment Integration | &#10004; | Ability to handle payment processing |
 | Checkout | &#10004; | Ability to Checkout |
 
 
+<b>Admin Features</b>
+
+| Feature  |  Coded?       | Description  |
+|----------|:-------------:|:-------------|
+| Manage Product | &#10004; | Ability to add, edit or remove product |
+| Manage Category | &#10004; | Ability to add, remove category |
+| Manage Customer | &#10004; | Ability to add, edit, remove or view details of customer |
+| Manage Order | &#10004; | Ability to handle order status(packed, onTheWay, delivered, cancel |
 
 
 
