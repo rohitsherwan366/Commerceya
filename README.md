@@ -119,3 +119,40 @@ The website displays products. Users can add and remove products to/from their c
 [Back to Table of Contents](#table-of-contents)
 ## Screenshots
 
+##### Home Page
+
+![home_page](https://user-images.githubusercontent.com/39465843/128064172-3b86cf2c-882e-421f-b532-53cf1d3f48aa.png)
+
+
+##### Customer registration
+
+![costomer_registration](https://user-images.githubusercontent.com/39465843/128064208-1aaf75c3-3163-4113-9f27-a9c9f53548d4.png)
+
+
+##### Login page
+
+![login form](https://user-images.githubusercontent.com/39465843/128064268-545412af-f99d-4808-937e-b3632244c0aa.png)
+
+
+##### Product page
+
+![product_page](https://user-images.githubusercontent.com/39465843/128064293-06c2739f-5b9d-4cb0-813a-53677dc29338.png)
+
+
+##### Shopping cart
+
+![shopping cart](https://user-images.githubusercontent.com/39465843/128064318-19cc3265-0be6-436e-92d7-b446d2a5dbe9.png)
+
+
+##### Order page
+
+![order page](https://user-images.githubusercontent.com/39465843/128064326-7fee4034-8398-480d-bdf0-e1bd31bc4d26.png)
+
+
+##### Order Status
+
+![order status](https://user-images.githubusercontent.com/39465843/128064344-17b2d74c-4754-4010-851e-3883e1b63401.png)
+
+
+
+
