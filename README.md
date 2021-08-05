@@ -16,7 +16,7 @@
 * [Screenshots](#screenshots)
 * [Authors](#authors)
 * [Contributing](#contributing)
-* [License](#license)
+
 
 ## About the Project
 The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. Users can also select the category to add products and filter according to thier prices. They can then enter their address and choose Stripe to handle the payment processing.
